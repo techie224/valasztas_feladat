@@ -1,4 +1,4 @@
-# Választási eredmények elemzője 🗳️
+# Választási eredmények elemzése 🗳️
 
 C# konzolalkalmazás, amely egy kitalált helyhatósági választás eredményeit elemzi egy szövegfájl alapján LINQ és Lambda alkalmazásával egyaránt.
 
